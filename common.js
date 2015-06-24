@@ -1,6 +1,6 @@
 // var baseurl ='http://www.merashealthcare.com/merashealthcare/phase2/merashealthcare/';
 // var baseurl ='https://www.private-paediatrician.com/merashealthcare/';
-var baseurl ='https://www.private-paediatrician.com/merashealthcare/phase2/merashealthcare/';
+var baseurl ='https://www.private-paediatrician.com/merashealthcare/';
 
 // var baseurl ='http://localhost/meera/phase2/merashealthcare/';
 
